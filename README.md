@@ -1,2 +1,2 @@
-# software-3d-renderer
-Simple OpenGL like software renderer written in BlitzBasic. It supports flat shading.
+# Software 3D Renderer
+A simple OpenGL like software renderer written in BlitzBasic. It supports flat shading.
