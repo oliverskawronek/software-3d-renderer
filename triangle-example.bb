@@ -26,4 +26,5 @@ While Not KeyDown(1)
 	Flip(0)
 Wend
 
+srDestroy()
 End
