@@ -1,7 +1,6 @@
 Include "renderer.bb"
 
 Global Angle#, Z#
-Global Stream%, Count%, Index%
 
 Graphics(800, 600, 0, 2)
 SetBuffer BackBuffer()
